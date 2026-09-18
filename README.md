@@ -2,6 +2,9 @@
 
 LegalEase is an AI-powered legal assistance platform that bridges the gap between citizens and legal professionals. It allows users to submit legal problems, uses AI to categorize and analyze them, and intelligently matches them with the most suitable lawyers.
 
+# Live Link
+https://legal-ease-three-eta.vercel.app/ 
+
 ## 🚀 Key Features
 
 ### 🔐 Authentication & Security
